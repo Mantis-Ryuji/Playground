@@ -1,1 +1,33 @@
+# OS系、システムファイルや大きなキャッシュフォルダを除外
+*.log
+*.tmp
+*.bak
+__pycache__/
 .ipynb_checkpoints/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# 個人設定など
+.vscode/
+*.iml
+*.idea/
+
+# Anaconda関連
+.anaconda/
+.conda/
+.cache/
+.continuum/
+.ipython/
+.jupyter/
+.matplotlib/
+
+# Windows特有
+AppData/
+Cookies/
+Documents/
+Local Settings/
+My Documents/
+Recent/
+SendTo/
+Templates/
