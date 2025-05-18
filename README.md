@@ -4,7 +4,7 @@
 - `02`: 複数カーネルを並列して実装することによる効果検証（UNet）
 - `03`: ローカル環境でLlamaを使ってみる
 - `04`: SegFormerを用いた衛星画像のセグメンテーション
-- `05`: GAN半教師あり学習
+- `05`: GANを活用した半教師あり学習による分類精度の改善
 
 ## License
 This project is licensed under the MIT License.  
