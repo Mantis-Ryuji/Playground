@@ -1,10 +1,10 @@
 # Playground
 機械学習 勉強の記録.<br>
-- `01`: 畳み込み Auoto Encoder のマルチタスク学習
-- `02`: 複数カーネルを並列して実装することによる効果検証（UNet）
-- `03`: ローカル環境でLlamaを使ってみる
-- `04`: SegFormerを用いた衛星画像のセグメンテーション
-- `05`: GANを活用した半教師あり学習による分類精度の改善
+- `01`: 畳み込み Auoto Encoder のマルチタスク学習 MNIST
+- `02`: 複数カーネルを並列して実装することによる効果検証（UNet）Stanford Dataset
+- `03`: ローカル環境でLlamaを使ってみる Llama-3-ELYZA-JP
+- `04`: SegFormerを用いた衛星画像のセグメンテーション DeepGlobe Land Cover Classification Dataset
+- `05`: GANを活用した半教師あり学習による分類精度の改善 Fashion MNIST
 
 次やりたいこと: <br>
 VQ-VAE, Pytorchによるモデルの量子化, Diffusion系
