@@ -6,6 +6,9 @@
 - `04`: SegFormerを用いた衛星画像のセグメンテーション
 - `05`: GANを活用した半教師あり学習による分類精度の改善
 
+次やりたいこと: <br>
+VQ-VAE, Pytorchによるモデルの量子化, Diffusion系
+
 ## License
 This project is licensed under the MIT License.  
 See the [LICENSE](LICENSE) file for more details.
