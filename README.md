@@ -4,10 +4,10 @@
 - `02`: 複数カーネルを並列して実装することによる効果検証（UNet）Stanford Dataset
 - `03`: ローカル環境でLlamaを使ってみる Llama-3-ELYZA-JP
 - `04`: SegFormerを用いた衛星画像のセグメンテーション DeepGlobe Land Cover Classification Dataset
-- `05`: Triple-GANを活用した半教師あり学習 FashionMNIST
+- `05`: 
 
 次やりたいこと: <br>
-VQ-VAE, Pytorchによるモデルの量子化, Diffusion系
+Triple-GAN(全然うまくいかない), VQ-VAE
 
 ## License
 This project is licensed under the MIT License.  
