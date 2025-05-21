@@ -8,7 +8,7 @@
 - 
 
 次やりたいこと: <br>
-Triple-GAN(全然うまくいかない), VQ-VAE
+Triple-GAN(全然うまくいかない), VQ-VAE, DINO
 
 ## License
 This project is licensed under the MIT License.  
