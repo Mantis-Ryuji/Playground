@@ -4,7 +4,7 @@
 - `02`: 複数カーネルを並列して実装することによる効果検証（UNet）Stanford Dataset
 - `03`: ローカル環境でLlamaを使ってみる Llama-3-ELYZA-JP
 - `04`: SegFormerを用いた衛星画像のセグメンテーション DeepGlobe Land Cover Classification Dataset
-- `05`: EfficientNet-B0 による花の分類（102クラス）と、損失関数の比較 Flower Classification Datasets
+- `05`: EfficientNet-B0 による花の分類（102クラス）と、損失関数の比較 Flower Classification Dataset
 - 
 
 次やりたいこと: <br>
