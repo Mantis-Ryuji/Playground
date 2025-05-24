@@ -5,7 +5,8 @@
 - `03`: ローカル環境でLlamaを使ってみる Llama-3-ELYZA-JP
 - `04`: SegFormerを用いた衛星画像のセグメンテーション DeepGlobe Land Cover Classification Dataset
 - `05`: EfficientNet-B0 による花の分類（102クラス）と、損失関数の比較 Flower Classification Dataset
-- `06`: 脳腫瘍の分類 (main) とセグメンテーションのマルチタスク学習 ～特徴抽出の誘導～ Brain Cancer MRI Colorized Dataset
+- `06`: 脳腫瘍の分類 (main) とセグメンテーションのマルチタスク学習 ～特徴抽出の誘導～
+  Brain Cancer MRI Colorized Dataset
 - 
 
 次やりたいこと: <br>
